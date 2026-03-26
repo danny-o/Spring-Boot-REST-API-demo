@@ -27,7 +27,7 @@ A demo **Spring Boot** project that demonstrates how to build a secure, producti
 
 ### Prerequisites
 * Docker and Docker Compose installed.
-* Java 21 (if running locally without Docker).
+* Java 25 (if running locally without Docker).
 
 ### Running with Docker (Recommended)
 1. Clone the repository.
