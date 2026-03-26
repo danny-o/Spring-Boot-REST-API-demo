@@ -1,0 +1,7 @@
+logging.level.org.springframework = info
+
+logging.level.com.digitalskies.demo = debug
+
+currency-service.url = https://wwww.devurl.com
+currency-service.username = dev_username
+currency-service.key = dev_key

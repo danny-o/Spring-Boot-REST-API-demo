@@ -1,0 +1,16 @@
+insert into todo (id, username, description, target_date, done)
+values(1001,'DigitalSkies', 'Learn AWS', CURRENT_DATE, false)
+ON CONFLICT (id) DO NOTHING;
+
+insert into todo (id, username, description, target_date, done)
+values(1002,'DigitalSkies', 'Learn Google Cloud', CURRENT_DATE, false)
+ON CONFLICT (id) DO NOTHING;
+
+insert into todo (id, username, description, target_date, done)
+values(1003,'DigitalSkies', 'Learn Azure', CURRENT_DATE, false)
+ON CONFLICT (id) DO NOTHING;
+
+
+insert into todo (id, username, description, target_date, done)
+values(1004,'DigitalSkies', 'Learn Devops', CURRENT_DATE, false)
+ON CONFLICT (id) DO NOTHING;
