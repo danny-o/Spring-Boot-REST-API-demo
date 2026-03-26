@@ -3,8 +3,8 @@
 A demo **Spring Boot** project that demonstrates how to build a secure, production-ready REST API.
 ## 🛠 Tech Stack
 
-* **Framework:** Spring Boot 3.x
-* **Language:** Java 21
+* **Framework:** Spring Boot 4.x
+* **Language:** Java 25
 * **Security:** Spring Security & JWT (JSON Web Tokens)
 * **Database:** PostgreSQL
 * **Migration:** Flyway
